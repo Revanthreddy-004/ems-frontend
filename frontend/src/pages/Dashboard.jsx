@@ -2,7 +2,7 @@ import { useNavigate } from "react-router-dom";
 import { jwtDecode } from "jwt-decode";
 import { useState } from "react";
 
-import Employees from "./Employees";
+import Employees from "./employees";
 
 function Dashboard() {
 
